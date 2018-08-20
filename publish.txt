@@ -1,0 +1,92 @@
+
+------------------------------------------------------------------------
+
+**Vain** is a surrealistic **platformer**, experimenting with **different styles** and **different mechanics**, while the **world collapses on you** as the **music progresses**. 
+
+-------------------------------------------------------------------------
+
+## Plot
+
+*Herr Tannhäuser, a scientist who has gone mad due to his past experiences,* 
+
+*found a way to escape the madness of this world. *
+
+*He invented a device which can tear a hole in space and reality,* 
+
+*opening a gateway to an unimaginable realm.*
+
+*After he used the device, he found himself between the space and the final frontier.*
+
+*A place where the rules are ... **uncanny**.*
+
+--------------------------------------------------------------------------
+
+## Objectives
+
+*Travel through 1 and a quarter totally different worlds until you reach the final frontier and you leave behind **time** and **space**. *
+
+
+*Use 2 different mechanics on your aid in those 2 worlds: **transform into a raven** or **rewind time**. *
+
+*But be quick, because this realm is collapsing on you and you've got **less and less space**, second by second!*
+
+
+
+--------------------------------------------------------------------------
+
+## Screenshots
+
+![world1.png](///raw/a2d/8/z/16fbe.png)
+
+![world12.png](///raw/a2d/8/z/16fc0.png)
+
+![world2.png](///raw/a2d/8/z/16fc1.png)
+
+
+---------------------------------------------
+
+## Summary
+
+
+**Basic platformer controls**, but
+
+**E** to relocate yourself to your 3 second old position.
+
+**Double jump** to transform into a raven, then **jump** to flap your wings. *(3 charges, landing refills it)*
+
+As the **music progresses** the **wall on the left progresses as well**, so be careful and **adapt to the music**.
+
+**And it can be completed! (I'm surprised as well) **
+
+*(The first world needs skill, the second one needs cunning. ;) )*
+
+**Sadly I couldn't fulfill as much as I wanted to. Couldn't even finish the "story". **
+
+*(But I had plans. Hint: name of the game) *
+
+---------------------------------------------------------------------------
+
+## What I tried to achieve:
+
+**3 full world, with 3 very different **
+
+**mechanics**, (the 3rd is already complete, but doesn't have a world: "ghost form"),
+
+**art styles**,  (both visually and audio-wise)
+
+and **feelings**.
+
+--------------------------------------------------------------------------
+
+## Ps.:
+
+In this game I wanted to try out how much have I learned since my first (LD41) game jam.
+
+For example I learned about basic visual arts and music. Hurray :)
+
+So now I can proudly say that this game is 100% made by me.
+
+If you are interested in my future projects, post mortems, etc, follow me on LD, Twitter, YouTube, Facebook, etc, etc (links on my profile)
+
+Thanks for reading. :)
+
