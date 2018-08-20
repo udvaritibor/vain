@@ -1,0 +1,44 @@
+=============== 
+Sajat
+===============
+RPGBuilds/
+=============== 
+Unity generated
+===============
+Temp/
+Library/
+Build/
+*ProjectVersion*
+*/UnityVS.meta
+
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+ExportedObj/
+obj/
+!*.obj
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll.meta
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll.meta
+Assets/UnityVS/Editor.meta
+LD42-Builds/
+LD42-Builds.zip
